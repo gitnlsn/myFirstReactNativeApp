@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name"        : "My First App",
+    "icon"        : "./icon.png",
+    "version"     : "1.0.1",
+    "slug"        : "Some-text-to-show",
+    "sdkVersion"  : "23.0.0",
+    "ios"         : {
+      bundleIdentifier: "com.nelson.myFirstApp",
+    },
+    "android": {
+      package: "com.nelson.myFirstApp",
+    },
+  }
+}
